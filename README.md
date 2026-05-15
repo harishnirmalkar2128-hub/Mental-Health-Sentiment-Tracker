@@ -5,6 +5,20 @@ A proactive mental health monitoring application built with **Python** and **Nat
 ## 🌟 Overview
 In the current fast-paced academic and professional environment, mental health often takes a backseat. **MindTrack AI** serves as a digital companion that detects early signs of stress, anxiety, or negativity through sentiment analysis, promoting early emotional awareness.
 
+## 🖥️ App Interface
+
+### 1. Main Dashboard
+The initial landing state of the application.
+![Main UI](screenshot/Main.png)
+
+### 2. Positive Mood Detection
+The interface turns green when positive sentiments are detected.
+![Good Mood](screenshot/Good.png)
+
+### 3. Stress Detection
+The interface flags negative sentiments in red with helpful advice.
+![Sad Mood](screenshot/Sad.png)
+
 ## 🚀 Key Features
 - **Real-time Sentiment Analysis:** Leverages NLP algorithms to categorize emotional states as Positive, Neutral, or Stressed.
 - **Modern User Interface:** A highly polished and responsive GUI built with `CustomTkinter` for a premium user experience.
