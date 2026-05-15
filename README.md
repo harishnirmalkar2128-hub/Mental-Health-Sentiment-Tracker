@@ -9,15 +9,18 @@ In the current fast-paced academic and professional environment, mental health o
 
 ### 1. Main Dashboard
 The initial landing state of the application.
-![Main UI](screenshot/Main.png)
+<br>
+<img src="screenshot/Main.png" width="450" alt="Main UI">
 
 ### 2. Positive Mood Detection
 The interface turns green when positive sentiments are detected.
-![Good Mood](screenshot/Good.png)
+<br>
+<img src="screenshot/Good.png" width="450" alt="Good Mood">
 
 ### 3. Stress Detection
 The interface flags negative sentiments in red with helpful advice.
-![Sad Mood](screenshot/Sad.png)
+<br>
+<img src="screenshot/Sad.png" width="450" alt="Sad Mood">
 
 ## 🚀 Key Features
 - **Real-time Sentiment Analysis:** Leverages NLP algorithms to categorize emotional states as Positive, Neutral, or Stressed.
